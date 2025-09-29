@@ -66,5 +66,5 @@ If you have feature ideas, bug reports, or want to become a contributor, please 
 This project is open-sourced under the MIT License.
 
 ✉️ Contact
-For questions or support, please open an issue in the repo or contact the maintainer at [your-email@example.com].
+For questions or support, please open an issue in the repo or contact the maintainer at hemacharankodhanda@gmail.com
 
