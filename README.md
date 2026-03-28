@@ -4,9 +4,9 @@ LOCALPRO connects clients looking for skilled professionals (plumbers, electrici
 🚀 Features
 Multi-Category Service Search: Easily find plumbers, carpenters, electricians, cleaners, pet care, drivers, and more.
 
-Sleek UI & Responsive Design: Modern clean layouts, minimal animations, and flat design for all devices.
+Sleek UI & Responsive Design: Modern, clean layouts, minimal animations, and flat design for all devices.
 
-User Authentication: Sign up and login with email & password (Firebase Auth).
+User Authentication: Sign up and log in with email & password (Firebase Auth).
 
 Request & Matchmaking Workflow: Clients post tasks and budget, get matched with qualified workers nearby.
 
@@ -22,7 +22,7 @@ Sample Data Driven: Demo-ready sample worker data for categories.
 
 Accessibility and Responsiveness: Works seamlessly on desktops and mobiles.
 
-Animations: Smooth fade-in, floating and gradient-animated sections for modern UX.
+Animations: Smooth fade-in, floating, and gradient-animated sections for modern UX.
 
 🛠️ Tech Stack
 Frontend: HTML5, CSS3 (custom, no heavy frameworks), JavaScript (ES6+)
@@ -38,7 +38,7 @@ Deployment Ready: Just serve as static files or deploy on Netlify/Vercel/your we
 📦 Installation & Running Locally
 bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/localpro.git
+git clone https://github.com/hemacharankodhanda/localpro.git
 cd localpro
 
 # 2. (Optional) Configure Firebase & Vapi keys in the scripts
@@ -50,13 +50,13 @@ For maximum functionality, add your own Firebase project configuration and Vapi 
 ✨ Usage
 Browse categories or use the search bar on the homepage.
 
-Sign up and login to create requests.
+Sign up and log in to create requests.
 
 Submit service requests and get matched with demo professionals.
 
 View freelancer portfolios and previous customer reviews.
 
-(Demo only) Test with local sample data. For real deployment, connect backend and database.
+(Demo only) Test with local sample data. For real deployment, connect the backend and the database.
 
 🤝 Contributing
 Pull requests and suggestions are welcome!
