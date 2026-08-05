@@ -1,3 +1,4 @@
+
 # LOCALPRO - Find Professionals
 
 ![LocalPro Banner](https://via.placeholder.com/1200x400/4F46E5/FFFFFF?text=LOCALPRO+-+Hyperlocal+Freelancing)
@@ -100,3 +101,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 *Built with ❤️ for the community.*
+
