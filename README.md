@@ -94,14 +94,4 @@ LocalPro/
 
 ---
 
-## 📄 License
 
-Distributed under the MIT License. See [`LICENSE`](./LICENSE) for details.
-
----
-
-<div align="center">
-
-*Built with ❤️ for the community.*
-
-</div>
