@@ -84,14 +84,3 @@ LocalPro/
 └── README.md                  # Project documentation
 ```
 
----
-
-## 🎨 Design System
-
-- **Typography** — `Outfit` for bold headings, `Inter` for readable body text
-- **Colors** — Slate background (`#FAFAFC`), deep slate text, vibrant Indigo (`#4F46E5`) for primary actions
-- **Components** — Rounded corners (`rounded-3xl`, `rounded-2xl`), subtle border strokes, layered drop shadows (`shadow-xl`) for depth
-
----
-
-
